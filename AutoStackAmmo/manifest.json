@@ -1,0 +1,10 @@
+{
+  "Name": "Auto-Stack Ammo",
+  "Author": "Jonathan Feenstra",
+  "Version": "1.0.0",
+  "Description": "Automatically adds any new ammo to slingshots that have the same type of ammo attached.",
+  "UniqueID": "JonathanFeenstra.AutoStackAmmo",
+  "EntryDll": "AutoStackAmmo.dll",
+  "MinimumApiVersion": "4.0.0",
+  "UpdateKeys": []
+}
